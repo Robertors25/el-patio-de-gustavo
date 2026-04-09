@@ -12,13 +12,13 @@
  * La clave apiKey es pública por diseño; la seguridad va en Firestore Rules.
  */
 window.__FIREBASE_CONFIG__ = {
-  apiKey: 'AIzaSyDsaK6qotvoHmYLbQmTBD7M4_hkOF0D6B0',
+  apiKey: 'AIzaSyDsaK5qotvoHmYLbQmTBD7M4_hkOFOD6B0',
   authDomain: 'el-patio-gustavo.firebaseapp.com',
   projectId: 'el-patio-gustavo',
   storageBucket: 'el-patio-gustavo.firebasestorage.app',
   messagingSenderId: '1097275947371',
   appId: '1:1097275947371:web:c29d0028f0459ab41c342e',
-  measurementId: 'G-KPNTER9V8K'
+  measurementId: 'G-KPMTFR9V0K'
 };
 
 /** Colección y documento donde vive la carta (no cambies si usas admin.html incluido) */
